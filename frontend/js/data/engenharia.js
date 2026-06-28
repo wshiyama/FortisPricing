@@ -1,7 +1,5 @@
-// Engenharia dos produtos extraída do sistema original.
-// Não altere valores nesta sprint.
-
-export const ENG = {
+/* ─── ENGENHARIA DOS PRODUTOS (qty por kg de produto final, da planilha) ─── */
+var ENG = {
   "MICROFIBRA 12mm SM": {
     comps:[
       {code:"1000", qty:0.987},
@@ -113,3 +111,4 @@ export const ENG = {
   },
   "OUTRO": {comps:[]}
 };
+

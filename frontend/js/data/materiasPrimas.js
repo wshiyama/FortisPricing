@@ -1,7 +1,5 @@
-// Tabela de matérias-primas extraída do sistema original.
-// Não altere valores nesta sprint.
-
-export const MP = {
+/* ─── PREÇOS UNITÁRIOS (editáveis em runtime) ─── */
+var MP = {
   "1000": {name:"POLIPROPILENO",       preco:13.88},
   "1100": {name:"ÓLEO DE ENCIMAGEM",   preco:7.59},
   "4100": {name:"EMBALAGENS 600g",     preco:0.2068},
