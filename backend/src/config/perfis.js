@@ -1,0 +1,8 @@
+export const PERFIS = {
+  VENDEDOR: "VENDEDOR",
+  TECNICO_COMERCIAL: "TECNICO_COMERCIAL",
+  GESTOR: "GESTOR",
+  DIRETOR: "DIRETOR"
+};
+
+export const PERFIS_VALIDOS = Object.values(PERFIS);
